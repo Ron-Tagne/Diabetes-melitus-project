@@ -1,6 +1,6 @@
 ## 1. **Installation**
 
-Installation of Python 3.10. 4, Numpy, Pandas Matplotlib, Seaborn, and Scikit learn libraries are sufficient to run the codes in the notebook.
+Installation of Python 3.10. 4, Numpy, Pandas, Matplotlib, Seaborn, and Scikit Learn libraries are sufficient to run the codes in the notebook.
 
 ## 2. **Project Motivation**
 
