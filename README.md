@@ -8,7 +8,7 @@ I was interested in creating a predictive model that could predict the likelihoo
  
 ## 3. **Data Source**
 
-This dataset was sources from the 'Stroke Prediction' by Chris X. The dataset can be accessed via the Kaggle platform, at the following [link](https://www.kaggle.com/code/docxian/stroke-prediction/data).
+The dataset utilized for this project is originally from the National Institute of Diabetes and Digestive and Kidney Diseases. This data was sources from the 'Diabetes Dataset' by Mehmet Akturk. The dataset can be accessed via the Kaggle platform, at the following [link](https://www.kaggle.com/datasets/mathchi/diabetes-data-set).
 
 ## 4. **File Descriptions**
 
@@ -17,7 +17,7 @@ There is one note book file that contains the exploratory data analysis and mode
 
 ## 5. **Results**
 
-The main findings and answers to the questions can be found on a blog post  [here](https://medium.com/p/5da987d43657/edit)
+The main findings and answers to the questions can be found on a blog post [here](https://medium.com/p/5da987d43657/edit)
 
 ## 6. **Licensing, Authors, and Acknowledgements**
 
